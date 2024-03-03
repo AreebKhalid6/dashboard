@@ -131,10 +131,7 @@ const Sidebar = () => {
           })}
         </ul>
       </aside>
-      <div className="overlay-search-bar">
-        <input type="text" placeholder="Search..." />
-        <button type="button">Search</button>
-      </div>
+     
     </div>
   );
 };
